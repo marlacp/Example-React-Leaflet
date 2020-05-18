@@ -6,6 +6,9 @@ Instala el proyecto con:
 `$ npm install`
 
 corre primero la Fake Api con el siguiente comando:
+
 `$ npx json-server initalState.json`
+
 Y después corre el proyecto con:
+
 `$npm run start`
